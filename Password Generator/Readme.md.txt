@@ -1,0 +1,3 @@
+Password Generator - Usage Instructions
+
+Make sure you have Python 3.x installed. Save the script as password_generator.py and run it in your terminal or command prompt using python password_generator.py. When prompted, enter the desired password length (e.g., 12, 16, etc.). The program will display the generated password and a strength bar showing Weak / Medium / Strong. Repeat as needed to generate new passwords. Tip: Use 12 or more characters for stronger passwords.
